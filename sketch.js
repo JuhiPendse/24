@@ -19,9 +19,9 @@ function setup() {
 	//Create the Bodies Here.
 ground1 = new ground(600,height,1200,20)
 paper1 = new Paper(150,200,25)
-box1 = new Box(900,300,20,90)
-box2 = new Box(950,300,90,20)
-box3 = new Box(1000,300,20,90)
+box1 = new Box(895,345,20,90)
+box2 = new Box(950,380,90,20)
+box3 = new Box(1000,345,20,90)
 
 
 	Engine.run(engine);
